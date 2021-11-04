@@ -2,9 +2,10 @@
 - 👀 I’m interested in hacking developent ext.
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on the GHOST project 
-- 📫 How to reach me :
+- 📫 How to reach me : 
 at my e-mail 
-at my YouTube Channel [French]
+ssidiadnane@gmail.com
+
 
 <!---
 H-Tech-Dev36/H-Tech-Dev36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
