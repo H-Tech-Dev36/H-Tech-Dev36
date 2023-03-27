@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on the GHOST project 
 - 📫 How to reach me : 
-at my e-mail 
-ssidiadnane@gmail.com
+      Email : ssidiadnane@gmail.com
+      Or my Discord (Discord is better than email :] ) : ADNSecurity#0193
 
 
 <!---
