@@ -8,7 +8,7 @@
       Email : ssidiadnane@gmail.com
       Or my Discord (Discord is better than email :] ) : ADNSecurity#0193
 
-Support me : <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+Support me : <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/H-Tech-Dev36?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 # Here Are My Stats
 
