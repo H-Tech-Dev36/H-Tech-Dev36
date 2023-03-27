@@ -25,7 +25,7 @@ Support me : <img alt="followers" title="Follow me on Github" src="https://img.s
 <img src="https://profile-counter.glitch.me/{H-Tech-Dev36}/count.svg" alt="ADNSecurity :: Visitor's Count" />
 
 # Random Labels :
-<img src="https://img.shields.io/badge/TryHackMe-ADNSecurity-red"/>
+<img src="https://img.shields.io/badge/TryHackMe-ADNSecurity-red" /> <img src="https://img.shields.io/badge/TryHackMe-%5B0x9%5D%20%5B0MN1%5D-green" />
 
 <!---
 H-Tech-Dev36/H-Tech-Dev36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
